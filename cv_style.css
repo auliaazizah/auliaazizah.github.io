@@ -1,0 +1,133 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("gambar_1.jpg");
+    color: #f2f5f7;
+}
+a{
+    text-decoration: none;
+    color:#f2f5f7;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.cv{
+    width: 600px;
+    height: auto;
+    margin: 10px auto;
+    background-color: #f0f0f0;
+    border-radius: 0px 0px 35px 0px;
+}
+.top-content{
+    width: 600px;
+    background-color: #487eb0;
+    border-radius: 0px 0px 55px 0px;
+}
+.nama{
+    text-align: center;
+    padding-top: 2.5rem;
+    padding-left: 20rem;
+    padding-bottom: 1rem;
+    font-family: 'Permanent Marker', cursive;
+}
+/* .main-content{
+    background-color: burlywood;
+    width: 68%;
+    height: auto;
+    margin-left: 14rem;
+    display: absolute;
+} */
+.cv-side{
+    background-color: #0a3d62;
+    width: 200px;
+    height: 800px;
+    margin-top: -41.7rem;
+    margin-left: 1.5rem;
+    position: relative;
+}
+.profile-picture >img{
+    width: 150px;
+    height: 150px;
+    margin: 50px 25px auto;
+    border-radius: 100%;
+}
+.footer-content{
+    width: 600px;
+    height: 30px;
+    background-color: #487eb0;
+    margin-top: -2.5rem;
+    text-align: right;
+    border-radius: 0px 0px 55px 0px;
+
+}
+.side-tittle{
+    background-color: #487eb0;
+    width: 195px;
+    height: 20px;
+    margin-left: -5px;
+    margin-top: 25px;
+    padding-top: 7px;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 0px 5px 5px 0px;
+}
+.side-description{
+    font-family: 'Heebo', sans-serif;
+    font-size: 15px;
+    line-height: 10px;
+}
+i{
+    padding: 15px 10px 0px 6px;
+}
+.side-content a{
+    padding: 2px auto;
+}
+.side-content li{
+    padding: 25px 0px 0px 30px;
+}
+.main-title{
+    background-color: #487eb0;
+    width: 335px;
+    height: 20px;
+    margin-top: 30px;
+    margin-left: 16rem;
+    padding-top: 6px;
+    padding-left: 10px;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'Rubik', sans-serif;
+    text-align: left;
+    text-transform: uppercase;
+    border-radius: 10px 0px 0px 10px;
+}
+.main-description{
+    text-align: justify;
+    padding: 7px 0px 0px 260px;
+    color: #2b2b2b;
+    font-size: 17px;
+    font-weight: 200;
+    font-family: 'Yanone Kaffeesatz', sans-serif;;
+}
+.main-subtitle{
+    padding: 15px 0px 0px 260px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    color: #2b2b2b;
+}
+h2{
+    font-size: 12px;
+    padding-top: 9.5px;
+    padding-right: 15px;
+}
+span{
+    padding: 0px 0px 0px 30px;
+}
+.satu{
+    padding: 0px 0px 0px 20px;
+}
